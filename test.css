@@ -1,0 +1,134 @@
+*{
+    margin: 10;
+    padding: 0;
+    background-color: rgb(229, 39, 229);
+    
+}
+
+.main-container{
+    border: 1px solid black;
+    height: 550px;
+    width:82%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 105px;
+   background-color: rgb(226, 223, 223);
+   margin-left: 135px;
+
+}
+
+.login-box{
+    height: 430px;
+    width: 340px;
+    border: 1px solid black;
+    stroke: black;
+    border-radius: 10px;
+    margin-right: 6%;
+    background-color: rgb(243, 224, 224) ;
+   
+
+}
+.login-box>h1{
+    margin-left: 20px;
+    background-color: transparent;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.sing{
+    margin-left: 20px;
+    background-color: transparent;
+    padding-bottom: 200px;
+}
+.acc{
+    background-color: transparent;
+    margin-left: 20px;
+    
+}
+
+
+.mail{
+    background-color: transparent;
+    padding-left: 20px; 
+    
+
+}
+.e-add{
+    background-color:transparent;
+    padding-right: 100px;
+    margin-left: 0px;
+    padding-top: 15px;
+    font-size: medium;
+    border-radius: 5px;
+}
+.pass{
+    background-color: transparent;
+    padding-left: 20px;
+}
+.password{
+    padding-left: 110px;
+    background-color: transparent;
+    
+}
+.passw{
+    background-color: transparent;
+    padding-right: 100px;
+    margin-left: 0px;
+    padding-top: 15px;
+    font-size: medium;
+    border-radius: 5px;
+}
+
+
+label{
+    background-color: transparent;
+    padding-left: 0px;
+    }
+
+.log{
+    height: 35px;
+    width: 290px;
+    background-color: rgb(68, 68, 238);
+    color: white;
+    margin-left: 20px;
+    border-radius: 6px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.line{
+    background-color: transparent;
+    padding-left: 90px;
+}
+.google{
+    height: 35px;
+    width: 140px;
+    margin-left: 20px;
+    border-radius: 8px;
+    background-color: white;
+    border: 2px solid red;
+    cursor: pointer;
+
+}
+.face{
+    height: 35px;
+    width: 140px;
+    margin-left: 20px;
+    border-radius: 8px;
+    background-color: white;
+    border: 2px solid blue;
+    cursor: pointer;
+}
+
+.image{
+    background-color: transparent;
+    border: 0px solid red;
+    height: 480px;
+    width: 450px;
+    background: url(./asset/woman-sitting-working-at-a-laptop-cartoon-vector-28914226.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+}
